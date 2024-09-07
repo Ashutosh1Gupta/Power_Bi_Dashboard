@@ -31,7 +31,7 @@ Top 5 Products by Reviews (Bar Chart):- Identify the top-rated products by year-
 Getting Started
 Prerequisites
 - Power BI Desktop
-- Data source (e.g., CSV files, database connection
+- Data source (e.g., xlsx/CSV files, database connection
 
 
 Usage
